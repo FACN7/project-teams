@@ -1,2 +1,7 @@
-# project-teams
-A repository that has teams and the team members for each week
+# FACN7 teams
+
+## Weeks 1+2 
+
+- Omri, Hosen, Ibraheem
+- Ariel, Karem, Natalia
+- Moshe, Sally, Mohammad
