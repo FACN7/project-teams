@@ -13,6 +13,11 @@
 - Ebraheem, Natalia, Mohammad
 
 ## Weeks 6+7
--- Omri, Karem, Mohammad
--- Hosen, Natalia
--- Ebraheem, Moshe
+- Omri, Karem, Mohammad
+- Hosen, Natalia
+- Ebraheem, Moshe
+
+# Weeks 8+9
+- Omri, Natlaia
+- Hosen, Mohammad, Ariel
+- Ibraheem, Karem, Moshe
